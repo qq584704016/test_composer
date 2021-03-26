@@ -5,7 +5,11 @@
         "This file is @generated automatically"
     ],
     "content-hash": "2c8d25a672faf7c189468de39e1ba8ad",
-    "packages": [],
+    "packages": [
+        {
+            "version": "v1.0.0"
+        }
+    ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
