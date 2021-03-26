@@ -1,0 +1,14 @@
+{
+    "name": "zhenyang/test_composer",
+    "description": "test composer push a packagist templeat",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "TUTU",
+            "email": "584704016@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
